@@ -4,7 +4,7 @@
     <title> MY PROFILE </title>
     </head>
 <body> 
-<h1> NAME: M.AKSHAYA</h1>
+<h2> NAME: M.AKSHAYA</h2>
 
 
 
