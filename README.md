@@ -4,9 +4,11 @@
     <title> MY PROFILE </title>
     </head>
     <style> 
-        
+        h2{
+            color:red;
+            }
     </style>
-<body background-color👱‍♂️> 
+<body> 
 <h2> NAME: M.AKSHAYA</h2>
 <h2> STUDY: Bsc COMPUTER SCIENCE </h2> 
 
