@@ -3,7 +3,10 @@
     <head>
     <title> MY PROFILE </title>
     </head>
-<body> 
+    <style> 
+        
+    </style>
+<body background-color👱‍♂️> 
 <h2> NAME: M.AKSHAYA</h2>
 <h2> STUDY: Bsc COMPUTER SCIENCE </h2> 
 
